@@ -10,6 +10,7 @@ var trex ,trex_running,trex_collided;
 var ground, invisibleGround, groundImage;
 
 //sprite Nuvem
+//console.text
 var cloud, cloudsGroup, cloudImage;
 
 //Variavel Cactos
